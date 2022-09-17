@@ -1,0 +1,14 @@
+Package: montyhall
+Title: Monty Hall Game Simulator 
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kasey", "Potts", , "kpotts6@asu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package runs a simulation of the popular Monty Hall game featuring two goats and one car. Users can play the game to try their luck. They can also run simulations to test theories on staying vs switching to evaluate odds of winning with each strategy.
+Depends:
+	dplyr
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
